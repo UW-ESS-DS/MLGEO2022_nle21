@@ -8,9 +8,9 @@
      - climate and environmental change
      - tectonics
   3. Incline code snipet to clone:
-  '''
-  git clone https://github.com/UW-ESS-DS/MLGEO2022_nle21.git
-  '''
+     '''
+     git clone https://github.com/UW-ESS-DS/MLGEO2022_nle21.git
+     '''
   4. Choice of licensning:
   5.
   

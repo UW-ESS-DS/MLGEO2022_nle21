@@ -13,5 +13,5 @@
      ```
   4. Choice of licensning: I use MIT lincens because it’s suitable for both community developers and teams that want to produce propriety software using existing pieces of MIT licensed code.
   5. Image:
-     ![This is an image](/../main/HW1.png)
+     ![This is an image](/../main/images/HW1.png)
   
